@@ -1,10 +1,11 @@
-### What?
+## What?
 
 I have added/removed/altered:
-- [ ] Added foo in bar
-- [ ] Removed baz
 
-### Why?
+- [ ] _Added foo in bar_
+- [ ] _Removed baz_
+
+## Why?
 
 I am doing this because:
 
@@ -12,7 +13,7 @@ I am doing this because:
 -
 -
 
-### Acceptance Criteria
+## Acceptance Criteria
 
 I can call this done when:
 
@@ -20,8 +21,7 @@ I can call this done when:
 - [ ]
 - [ ]
 
-### Deployment risks (optional)
+## Deployment risks (optional)
 
-E.g.
-- Includes a db migration which may lock a table that customers use in our live environments
-- Changes the semantics of an api that live customers use
+- _Includes a db migration which may lock a table that customers use in our live environments_
+- _Changes the semantics of an api that live customers use_

@@ -12,21 +12,15 @@ When [users work/life context]
 I want to [motivation] 
 so that [outcome/benefit].
 
-Example:
-**When** I have used the application multiple times
-**I want to** get nudged to contribute
-**so that** I am encouraged to contribute.
+_**When** I have used the application multiple times_
+_**I want to** get nudged to contribute_
+_**so that** I am encouraged to contribute._
 
 ## Design
 [Attach screenshots if applicable]
 
 ## Notes
-Any other notes about the task.
 
-Examples:
-- Design considerations
-- Existing design patterns to use
-- Describe the feeling or speed of an animated transition
-- Suggested design solutions
-- Engineering considerations
-- Suggested engineering solutions
+- _Design considerations_
+- _Suggested design solutions_
+- _Engineering considerations_
